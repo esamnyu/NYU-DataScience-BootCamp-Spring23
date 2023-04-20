@@ -1,4 +1,24 @@
-# NYU-DataScience-BootCamp-Spring23
+## NYU Tandon Spring 2023 Data Science Bootcamp
+- **Project:** Real-world data science project simulation
+- **Dataset:** [Bike Sharing Dataset](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
+- **Objective:** Gain hands-on experience in data collection, feature engineering, modeling, visualization, and reporting
+
+### Dataset Details
+- Hourly and daily count of rental bikes between 2011 and 2012 in Capital bikeshare system
+- Contains weather and seasonal information
+
+### Project Requirements
+1. Study the data and come up with possible problem statements
+2. Test different models and kinds of analysis (e.g., regression, classification)
+3. Formulate questions to be tested with hypothesis testing
+4. Support findings with appropriate visualizations and result summaries
+
+### Key Dates
+- Confirm presentation date (May 2, 4, or 5) and individual participation by Thursday, April 13 at 5PM
+
+### Contact Information
+- Email: datasciencebootcamp@nyu.edu
+- Reach out to Kartik on Slack or email for questions
 
 ## Potential Problem Statements
 1. Predict the hourly demand for bike rentals using weather and seasonal information.
@@ -31,17 +51,4 @@
 
 5. **Classification Problem:**
    a. Define thresholds for low, medium, and high demand categories based on the distribution of bike rentals.
-   b. Train various classification models (e.g., logistic regression, decision tree, random forest, support vector machines) on the training data.
-   c. Evaluate each model's performance on the testing data using appropriate metrics, such as accuracy, precision, recall, or F1-score.
-   d. Fine-tune the best-performing model using hyperparameter tuning techniques, such as grid search or random search.
-
-6. **Hypothesis Testing:**
-   a. Formulate questions about the dataset that can be tested using hypothesis testing (e.g., "Is there a significant difference in bike rental demand between weekdays and weekends?")
-   b. Perform appropriate statistical tests (e.g., t-test, chi-square test) to answer these questions.
-
-7. **Visualization and Result Summaries:**
-   a. Create visualizations that showcase the relationships between features and bike rental demand, as well as the performance of your models (e.g., confusion matrix, feature importance plot, residual plot).
-   b. Summarize your findings, including the best-performing model, insights from hypothesis testing, and any recommendations or conclusions based on your analysis.
-
-8. **Presentation:**
-   a. Prepare a presentation that clearly communicates your problem statement, methodology, results, visual
+   b. Train various classification models (e.g., logistic regression,
