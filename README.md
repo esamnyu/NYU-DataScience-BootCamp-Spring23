@@ -22,20 +22,19 @@ Gain hands-on experience in data collection, feature engineering, modeling, visu
 
 #### Key Dates:
 
-Confirm presentation date (May 2, 4, or 5) and individual participation by Thursday, April 13 at 5PM.
+Confirm presentation date (TBD) and individual participation by TBD.
 
 #### Contact Information:
 
 Email: datasciencebootcamp@nyu.edu
-Reach out to Kartik on Slack or email for questions.
+Reach out to instructors on Slack or email for questions.
 
-#### Potential Problem Statements:
+#### Addressed Problem Statements:
 
 - Predict the daily demand for bike rentals using weather and seasonal information.
 - Identify factors such as weekdays, season, temperature, humidity, and wind speed that significantly affect the daily demand for bike rentals and quantify their impact.
-- Analyze the impact of weather conditions, such as temperature, humidity, and wind speed, on daily bike rental demand.
 - Determine if certain days of the week or seasons have consistently higher or lower bike rental demand, and identify possible reasons for these patterns.
-- Investigate the relationship between bike rental demand and user types (e.g., casual users vs. registered users).
+- Analyze the impact of weather conditions, such as temperature, humidity, and wind speed, on daily bike rental demand. 
 
 #### Insights and Patterns:
 
@@ -46,7 +45,6 @@ Reach out to Kartik on Slack or email for questions.
   - Higher temperatures were associated with increased bike rental demand.
   - Higher humidity levels were associated with slightly lower demand.
   - Wind speed had a weak negative correlation with bike rental demand.
-
 
 #### Steps for Regression and Classification Approach:
 
