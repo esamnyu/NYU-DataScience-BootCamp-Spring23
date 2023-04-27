@@ -47,6 +47,7 @@ Reach out to Kartik on Slack or email for questions.
   - Higher humidity levels were associated with slightly lower demand.
   - Wind speed had a weak negative correlation with bike rental demand.
 
+
 #### Steps for Regression and Classification Approach:
 
 ##### Data Exploration and Preparation:
